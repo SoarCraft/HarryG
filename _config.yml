@@ -9,11 +9,11 @@ description: ''
 keywords:
 author: 城小雨
 language: zh-CN
-timezone: 'Asia/Shanghai'
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://soarteam.github.io/HarryG.Q-Audio.org/
+url: https://HarryG.Q-Audio.org/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
